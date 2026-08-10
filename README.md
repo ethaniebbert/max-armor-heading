@@ -1,8 +1,8 @@
 # ARMOR / MAX Relative Geometry
 
 A small Tkinter GUI for computing the range and relative geodetic azimuth
-(bearing) between the [ARMOR](https://www.nsstc.uah.edu/swirll/main/platforms/index.php)
-and [MAX](https://www.nsstc.uah.edu/swirll/main/platforms/index.php) radars,
+(bearing) between the [ARMOR]([https://www.nsstc.uah.edu/swirll/main/platforms/index.php](https://www.nsstc.uah.edu/swirll/main/platforms/armor.php))
+and [MAX]([https://www.nsstc.uah.edu/swirll/main/platforms/index.php](https://www.nsstc.uah.edu/swirll/main/platforms/max.php)) radars,
 given lat/lon coordinates.
 
 - **ARMOR** is a fixed site, so its coordinates are pre-filled.
@@ -10,7 +10,6 @@ given lat/lon coordinates.
   spot in the UAH SWIRLL lot but can be overwritten for each deployment.
 - Azimuths are geodetic bearings on the WGS84 ellipsoid, measured clockwise
   from true north, computed with [pyproj](https://pyproj4.github.io/pyproj/).
-- The window scales its text and input sizes as you resize it.
 
 ## Install
 
