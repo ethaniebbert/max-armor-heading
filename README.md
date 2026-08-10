@@ -1,8 +1,8 @@
 # ARMOR / MAX Relative Geometry
 
 A small Tkinter GUI for computing the range and relative geodetic azimuth
-(bearing) between the [ARMOR](https://www.nsstc.uah.edu/swirll/main/platforms/index.php](https://www.nsstc.uah.edu/swirll/main/platforms/armor.php)
-and [MAX](https://www.nsstc.uah.edu/swirll/main/platforms/index.php](https://www.nsstc.uah.edu/swirll/main/platforms/max.php) radars,
+(bearing) between the [ARMOR](https://www.nsstc.uah.edu/swirll/main/platforms/armor.php)
+and [MAX](https://www.nsstc.uah.edu/swirll/main/platforms/max.php) radars,
 given lat/lon coordinates.
 
 - **ARMOR** is a fixed site, so its coordinates are pre-filled.
